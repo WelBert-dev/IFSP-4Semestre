@@ -84,7 +84,7 @@ Lição de casa: Novo tema para o trabalho e lição de flexbox (tirei foto) ent
 Obs:
 
 ===================================================================================================================================================================
-05/08/2022(19:00 ás 22:30 - sexta)[Atividade complementar do capitulo 01 - 2 questões & Atividade de conclusão capitulo 02] - Segunda aula - GSG (Gerenciamento e Segurança de dados) ~ Valle
+05/08/2022(19:00 ás 22:30 - sexta)[Atividade complementar do capitulo 01 - 2 questões & Atividade de conclusão capitulo 02 OK] - Segunda aula - GSG (Gerenciamento e Segurança de dados) ~ Valle
 Plataforma: Presencial (https://www.netacad.com/portal/profile)
 Assunto: plataforma cisco continuação: Vulnerabilidades de segurança e exploits (capitulo 02).
 Abordagems que tomaremos nas aulas: Aulas teóricas sobre cibersegurança no neatacad.
@@ -95,7 +95,7 @@ Obs:
 Atividade1: Atividade 1.2.1.3 - Laboratório – Comparar dados com um hashAssignment entregar até 10/08/22 às 23h55 OK 
 Atividade2: Atividade 1.2.2.5 - Laboratório – O que foi roubado?Assignment entregar até 10/08/22 às 23h55 OK
 
-Atividade de conclusão capitulo 02: Acertos: Nota: até 12/08 às 23h59 OK
+Atividade de conclusão capitulo 02: Acertos: Nota: 8 até 12/08 às 23h59 OK
 
 ===================================================================================================================================================================
 08/08/2022(19:00 ás 22:30 - segunda)[Atividade 01 - Excel - Introduc Ciência de Dados OK] - Segunda aula - PJ2 (Projetos) ~ Fábio Santos
