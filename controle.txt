@@ -146,3 +146,70 @@ Trabalho 2a entrega: Tema: CRUD Restaurante (Registro cliente, produto e carrinh
 		- Modelo DER (BDA) -> Eu 
 
 ===================================================================================================================================================================
+12/08/2022(19:00 ás 22:30 - sexta)[Atividade de conclusão capitulo 03 OK] - Segunda aula - GSG (Gerenciamento e Segurança de dados) ~ Valle
+Plataforma: Presencial (https://www.netacad.com/portal/profile)
+Assunto: plataforma cisco continuação: capitulo 03.
+Abordagems que tomaremos nas aulas: Aulas teóricas sobre cibersegurança no neatacad.
+Próxima aula: Cisco
+Lição de casa:
+Obs:
+
+Atividade de conclusão capitulo 03 OK
+
+===================================================================================================================================================================
+15/08/2022(19:00 ás 22:30 - segunda)[Ciência de Dados OK] - Segunda aula - PJ2 (Projetos) ~ Fábio Santos
+Plataforma: Presencial (Submetido no Teams)
+Assunto: Ciência de dados (fizemos uma atividade no EXCEL) OK
+Abordagens que tomaremos nas aulas: Ciência de dados com Excel, power Bi e Python.
+Próxima aula: 
+Lição de casa:
+Obs:
+===================================================================================================================================================================
+16/08/2022(19:00 ás 20:40 - terça) - Segunda aula - PCT (Projeto e Capacitação Profissional) ~ Ana Paula
+Plataforma: Presencial
+Assunto:
+Abordagens que tomaremos durante as aulas:
+Próxima aula: 
+Lição de casa: 
+Obs: 
+
+===================================================================================================================================================================
+16/08/2022(20:55 ás 22:30 - terça) Tema/Descrição da empresa, Objetivo)OK - Terceira aula - PRC (Projeto de Redes de Computadores) ~ Pedro Becker
+Plataforma: Presencial
+Assunto: Mudamos de tema para: Software house legada.
+Abordagens que tomaremos durante as aulas: 16 Ata's seram entregues até o final do projeto. (2/16 - Entregues). OK
+Próxima aula:
+Lição de casa:
+Obs:
+
+===================================================================================================================================================================
+17/08/2022(19:00 ás 22:30 - quarta)[Atividade 02 - quantitativa - Futuro dos S.O's OK] - Terceira aula - ISO (Implantação de Sistemas Operacionais) ~ Damione Damito
+Plataforma: Presencial
+Assunto: Como voce acha que vai ser o futuro dos S.O's?
+Abordagens que tomaremos durante as aulas: Utilizar a plataforma: https://classroom.google.com/c/NTM3NzQ5NzQ1NDcx
+Próxima aula:
+Obs: responder a chamada na plataforma classroom! OK
+
+===================================================================================================================================================================
+18/08/2022(19:00 ás 22:30 - quinta)[Trabalho Sistema Web - Segunda apresentação PENDENTE][Trabalho Sistema Web] - Terceira aula - LG3 (Linguagem e Técnica de Programação III) ~ Claudio Raveri
+Plataforma: Presencial
+Assunto: Bootstrap tableless - introdução e prática (Template row e colum).
+Abordagems que tomaremos nas aulas: CSS por enquanto
+Próxima aula: 
+Lição de casa: 
+Trabalho 2a entrega: Tema: CRUD Restaurante (Registro cliente, produto e carrinho de compras) 
+	* Para daqui 15 dias:
+		- Diagrama de casos de Uso -> Nós, 
+		- Diagrama de Classes, 
+		- Modelo DER (BDA) -> Eu 
+
+===================================================================================================================================================================
+19/08/2022(19:00 ás 22:30 - sexta)[Atividade de conclusão capitulo 04 PENDENTE] - Segunda aula - GSG (Gerenciamento e Segurança de dados) ~ Valle
+Plataforma: Presencial (https://www.netacad.com/portal/profile)
+Assunto: plataforma cisco continuação: capitulo 04.
+Abordagems que tomaremos nas aulas: Aulas teóricas sobre cibersegurança no neatacad.
+Próxima aula: Cisco
+Lição de casa:
+Obs:
+
+Atividade de conclusão capitulo 04 PENDENTE
